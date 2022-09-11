@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "todo": "go to the grocery store",
+      "starred": false,
+      "id": 9
+    },
+    {
+      "todo": "apply to tamid",
+      "starred": false,
+      "id": 11
+    },
+    {
+      "todo": "do cosi hw",
+      "starred": false,
+      "id": 12
+    }
+  ]
+}
